@@ -1,5 +1,7 @@
 <?php
 
+namespace Sivsa\PadelGame;
+
 class PadelScore
 {
     private int $score1 = 0;

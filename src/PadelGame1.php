@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Sivsa\PadelGame;
 
-use PadelScore;
+use Sivsa\PadelGame\PadelScore;
 
 class PadelGame1 implements PadelGame
 {
